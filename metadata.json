@@ -1,0 +1,8 @@
+
+{
+  "name": "Avalon Digital: The Resistance",
+  "description": "A high-fidelity digital adaptation of the social deduction game The Resistance: Avalon, featuring pass-and-play mechanics, role reveals, and an AI-powered Herald for dramatic narration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

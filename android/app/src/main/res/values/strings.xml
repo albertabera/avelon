@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Secret Protocol</string>
+    <string name="title_activity_main">Secret Protocol</string>
+    <string name="package_name">com.avalon.secretprotocol</string>
+    <string name="custom_url_scheme">com.avalon.secretprotocol</string>
+</resources>

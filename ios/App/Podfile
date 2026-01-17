@@ -1,0 +1,13 @@
+platform :ios, '13.0'
+use_modular_headers!
+use_frameworks!
+
+# workaround to avoid Xcode caching of Pods that requires
+# Product -> Clean Build Folder after new Cordova plugins installed
+# Requires JavaScript to wipe caches via cleaning Cordova plugins
+# install! 'cocoapods', :deterministic_uuids => false
+
+target 'App' do
+  capacitor_pods
+  # Add your pods here
+end
